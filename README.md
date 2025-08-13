@@ -7,7 +7,7 @@ I am a highly motivated person with a strong academic background. I am looking f
 #### Technologies I have worked with
 
 - Frontend: JavaScript, TypeScript, React, HTML, CSS
-- Backend: Kotlin
+- Backend: Go, Kotlin
 - Scientific computing: R, Conda, Linux, Bash, Git
 
 #### Past projects
